@@ -5,7 +5,7 @@
   "main": "all.js",
   "scripts": {
     "start": "gulp watch",
-    "prod": "gulp prod",
+    "build": "gulp build",
     "dev": "gulp dev"
   },
   "keywords": [
